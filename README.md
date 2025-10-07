@@ -1,4 +1,4 @@
-# 🎮 GeForce NOW Anti-AFK Script (AutoHotkey v1)
+# 🎮 GeForce NOW Anti-AFK Script
 
 This script prevents **GeForce NOW** from logging you out due to inactivity.  
 It simulates small mouse movements **in the background**, without changing your actual cursor position or interfering with your game.
